@@ -3,7 +3,7 @@ Hide all "coming" videos on youtube feed - suscriptions page.
 
 
 English:
-1. Install [**Stylus**](https://addons.mozilla.org/es/firefox/addon/styl-us/) on Firefox.
+1. Install [**Stylus**](https://addons.mozilla.org/es/firefox/addon/styl-us/) on your browser.
 2. Create a new style for `youtube.com`.
 3. Use this CSS:
 
@@ -28,7 +28,7 @@ ytd-thumbnail-overlay-time-status-renderer[overlay-style="UPCOMING"]::before {
 
 Escodner todos los videos "coming" de la vista de suscripciones.
 Español:
-1. Instalar la extensión [**Stylus**](https://addons.mozilla.org/es/firefox/addon/styl-us/) en Firefox.
+1. Instalar la extensión [**Stylus**](https://addons.mozilla.org/es/firefox/addon/styl-us/) en tu explorador de internetes favorito.
 2. Creá un nuevo estilo para `youtube.com`.
 3. Pegá este CSS:
 
